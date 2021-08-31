@@ -1,0 +1,8 @@
+.ImageClickable {
+  width: 50%;
+}
+.ImageClickable > img {
+	width: 250px;
+	height: 200px;
+	padding: 20px 20px 20px 20px;
+}
